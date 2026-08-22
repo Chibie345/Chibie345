@@ -33,14 +33,10 @@
 
 ### 💻 Developer
 
-<br>
+**🚀 Full-Stack Developer**
 
-**Full-Stack Developer**
-
-🌐 Web Application
-
-🔴 Laravel & PHP
-
+🌐 Web Application  
+🔴 Laravel & PHP  
 🗄️ Database & REST API
 
 </td>
@@ -49,14 +45,10 @@
 
 ### 🤖 Technology
 
-<br>
+**🧠 AI & Computer**
 
-**IoT & ESP32**
-
-🧠 AI & Computer Vision
-
-📱 Mobile Development
-
+🔌 IoT & ESP32   
+📱 Mobile Development  
 ⚙️ Automation Systems
 
 </td>
@@ -70,9 +62,9 @@
 
 <div align="center">
 
-> 🚀 I enjoy turning ideas into real-world applications, from **web and mobile systems** to **IoT, automation, and AI-powered projects**.
+> 🚀 I enjoy turning ideas into real-world applications, from **🌐 web and 📱 mobile systems** to **🔌 IoT, ⚙️ automation, and 🧠 AI-powered projects**.
 
-> 🎯 My focus is creating technology that is **useful, modern, scalable, and connected to real-world problems**.
+> 🎯 My focus is creating technology that is **✨ useful, 🚀 modern, 📈 scalable, and 🌍 connected to real-world problems**.
 
 </div>
 
