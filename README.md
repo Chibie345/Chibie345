@@ -24,148 +24,110 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Full-Stack Developer"/>
+  <img src="https://img.shields.io/badge/IoT%20%26%20ESP32-0B1220?style=for-the-badge&labelColor=0891B2" alt="IoT and ESP32"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20VISION-0B1220?style=for-the-badge&labelColor=0891B2" alt="AI and Computer Vision"/>
+</p>
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-### 💻 Developer
-
-**🚀 Full-Stack Developer**
-
-🌐 Web Application  
-🔴 Laravel & PHP  
-🗄️ Database & REST API
-
-</td>
-
-<td width="50%" align="center">
-
-### 🤖 Technology
-
-**🧠 AI & Computer**
-
-🔌 IoT & ESP32   
-📱 Mobile Development  
-⚙️ Automation Systems
-
-</td>
-
-</tr>
+<table>
+  <tr>
+    <td align="center">
+      <h3>🚀 Building Digital Solutions</h3>
+      I enjoy turning ideas into real-world applications, from modern web platforms to smart IoT systems and AI-powered projects.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Web%20Applications-0E7490?style=flat-square" alt="Web Applications"/>
+      <img src="https://img.shields.io/badge/Smart%20Systems-0E7490?style=flat-square" alt="Smart Systems"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-0E7490?style=flat-square" alt="Computer Vision"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🎯 My Focus</b>
+      <br/><br/>
+      Creating technology that is useful, modern, scalable, and connected to real-world problems.
+    </td>
+  </tr>
 </table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-> 🚀 I enjoy turning ideas into real-world applications, from **🌐 web and 📱 mobile systems** to **🔌 IoT, ⚙️ automation, and 🧠 AI-powered projects**.
-
-> 🎯 My focus is creating technology that is **✨ useful, 🚀 modern, 📈 scalable, and 🌍 connected to real-world problems**.
-
-</div>
-
----
 
 ## ⚡ What I Do
 
-<div align="center">
-
 <table>
-<tr>
-
-<td align="center" width="25%">
-
-### 💻
-### Web
-
-Laravel  
-PHP  
-JavaScript  
-MySQL  
-REST API
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-### IoT
-
-ESP32  
-ESP32-CAM  
-Sensors  
-Relay  
-Automation
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧠
-### AI
-
-Python  
-OpenCV  
-Face Recognition  
-Voice Recognition  
-Computer Vision
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱
-### Mobile
-
-Flutter  
-Dart  
-Firebase  
-Mobile UI  
-IoT Control
-
-</td>
-
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Web Development</h3>
+      <p align="center">Building responsive web applications and backend systems.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/REST_API-0891B2?style=flat-square" alt="REST API"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 IoT & Embedded</h3>
+      <p align="center">Developing connected devices, sensor monitoring, and automation systems.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+        <img src="https://img.shields.io/badge/Arduino-008184?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+        <img src="https://img.shields.io/badge/Sensors-0891B2?style=flat-square" alt="Sensors"/>
+        <img src="https://img.shields.io/badge/Automation-0891B2?style=flat-square" alt="Automation"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AI & Computer Vision</h3>
+      <p align="center">Exploring intelligent applications, visual recognition, and image processing.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square" alt="AI"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Mobile Development</h3>
+      <p align="center">Creating mobile experiences and connecting apps with backend services.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+      </p>
+    </td>
+  </tr>
 </table>
-
-</div>
-
----
 
 # 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <b>💻 Languages</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=php,js,python,html,css" alt="PHP, JavaScript, Python, HTML, CSS"/>
+</p>
 
-### Languages
+<p align="center">
+  <b>⚙️ Frameworks & Development</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,nodejs" alt="Laravel, Flutter, Node.js"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,js,python,dart,html,css" />
+<p align="center">
+  <b>🗄️ Database & Backend</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="MySQL and Firebase"/>
+</p>
 
-<br><br>
+<p align="center">
+  <b>🔧 Tools & Hardware</b>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" alt="Git, GitHub, Visual Studio Code, Arduino"/>
+</p>
 
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=laravel,flutter,nodejs" />
-
-<br><br>
-
-### Database & Backend
-
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-
-<br><br>
-
-### Tools & Hardware
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-
-</div>
-
----
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Designed%20for-Dark%20Mode-0B1220?style=flat-square&labelColor=0891B2" alt="Dark mode design"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Creativity-0B1220?style=flat-square&labelColor=0891B2" alt="Powered by creativity"/>
+</p>
 # 🚀 Featured Projects
 
 <div align="center">
