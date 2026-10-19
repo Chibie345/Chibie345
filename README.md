@@ -50,13 +50,13 @@
   </tr>
 </table>
 
-## ⚡ What I Do
+## ⚡bidang keahlian yang ditekuni
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Web Development</h3>
-      <p align="center">Building responsive web applications and backend systems.</p>
+      <h3 align="center">🌐 Web Development (Pengembangan Web)</h3>
+      <p align="center">Membangun aplikasi web responsif dan sistem backend.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
@@ -66,8 +66,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📡 IoT & Embedded</h3>
-      <p align="center">Developing connected devices, sensor monitoring, and automation systems.</p>
+      <h3 align="center">📡 Internet of Things (IoT) & Embedded (Sistem Tertanam) </h3>
+      <p align="center">Mengembangkan perangkat terhubung, pemantauan sensor, dan sistem otomatisasi.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
         <img src="https://img.shields.io/badge/Arduino-008184?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
@@ -78,8 +78,8 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 AI & Computer Vision</h3>
-      <p align="center">Exploring intelligent applications, visual recognition, and image processing.</p>
+      <h3 align="center">🧠 Artificial Intelligence (AI) & Computer Vision</h3>
+      <p align="center">Menjelajahi aplikasi cerdas, pengenalan visual, dan pengolahan gambar.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -87,8 +87,8 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📱 Mobile Development</h3>
-      <p align="center">Creating mobile experiences and connecting apps with backend services.</p>
+      <h3 align="center">📱 Mobile Development (Pengembangan Aplikasi Mobile)</h3>
+      <p align="center">Menciptakan pengalaman seluler(Handphone) dan menghubungkan aplikasi dengan layanan backend</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
