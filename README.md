@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Selamat+Datang+di+Profil+GitHub+Saya+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;IoT+%26+ESP32+Developer+%F0%9F%A4%96;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
 
-</div>
-
 <br><br>
 
 <a href="https://github.com/Chibie345">
