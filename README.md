@@ -172,7 +172,7 @@ Sistem informasi berbasis web menggunakan Laravel, PHP, MySQL, autentikasi, dasb
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 statistik aktivitas dan kontribusi GitHub
 
 <div align="center">
 
