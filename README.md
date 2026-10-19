@@ -199,7 +199,7 @@ Sistem informasi berbasis web menggunakan Laravel, PHP, MySQL, autentikasi, dasb
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Fokus Pengembangan Saat Ini
 
 <div align="center">
 
@@ -208,24 +208,23 @@ Sistem informasi berbasis web menggunakan Laravel, PHP, MySQL, autentikasi, dasb
 
 <td align="center">
 
-### 🤖 AI
+### 🤖 Artificial Intelligence (AI)
 
-Exploring  
+Menjelajahi  
 Computer Vision  
-Voice Recognition  
-AI Integration
+(Pengenalan Suara) Voice Recognition  
+(Intergrasi AI)
 
 </td>
 
 <td align="center">
 
-### 🔌 IoT
+### 🔌 Internet Of Things (IoT)
 
-Building  
-ESP32 Systems  
-Smart Home  
-Automation
-
+Membangun
+Sistem ESP32
+Rumah Pintar
+Otomasi
 </td>
 
 <td align="center">
@@ -233,7 +232,7 @@ Automation
 ### 💻 Full-Stack
 
 Developing  
-Modern Web Apps  
+Aplikasi Web Modern  
 Laravel  
 REST API
 
@@ -241,12 +240,12 @@ REST API
 
 <td align="center">
 
-### 📱 Mobile
+### 📱 Apklikasi Handphone
 
-Creating  
-Flutter Apps  
-Firebase  
-IoT Control
+Membuat
+Aplikasi Flutter
+Firebase
+Kontrol IoT
 
 </td>
 
@@ -257,7 +256,7 @@ IoT Control
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Mari Berteman Dengan Saling Terhubung
 
 <div align="center">
 
