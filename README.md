@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Bagas%20Aditya&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20IoT%20%7C%20AI&descAlignY=60&descSize=20" width="100%" alt="Bagas Aditya Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Bagas%20Aditya%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20IoT%20%7C%20AI&descAlignY=60&descSize=20" width="100%" alt="Bagas Aditya Header"/>
 
 <br>
 
