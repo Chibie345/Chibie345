@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Bagas%20Aditya%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Developer%20%7C%20IoT%20%7C%20AI&descAlignY=60&descSize=20" width="100%" alt="Bagas Aditya Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:06B6D4&height=230&section=header&text=Bagas%20Aditya%20S&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20IoT%20%7C%20AI&descAlignY=60&descSize=20" width="100%" alt="Bagas Aditya Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Selamat+Datang+di+Profil+GitHub+Saya+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;IoT+%26+ESP32+Developer+%F0%9F%A4%96;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Selamat+Datang+di+Profil+GitHub+Saya+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+ESP32+Developer+%F0%9F%A4%96;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A7%A0;Building+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br><br>
 
@@ -25,7 +25,7 @@
 ## 👨‍💻 Tentang Saya
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Web Developer"/>
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Full - Stack Developer"/>
   <img src="https://img.shields.io/badge/IoT%20%26%20ESP32-0B1220?style=for-the-badge&labelColor=0891B2" alt="IoT and ESP32"/>
   <img src="https://img.shields.io/badge/AI%20%26%20VISION-0B1220?style=for-the-badge&labelColor=0891B2" alt="AI and Computer Vision"/>
 </p>
