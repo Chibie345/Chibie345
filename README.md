@@ -190,9 +190,6 @@ Web-based information systems using Laravel, PHP, MySQL, authentication, dashboa
 
 </div>
 
----
-
-# 🐍 Contribution Snake
 
 <div align="center">
 
