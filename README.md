@@ -98,10 +98,10 @@
   </tr>
 </table>
 
-# 🛠️ Tech Stack
+# 🛠️ Teknologi Yang Digunakan
 
 <p align="center">
-  <b>💻 Languages</b>
+  <b>💻 Bahasa Pemrograman (Languages)</b>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=php,js,python,html,css" alt="PHP, JavaScript, Python, HTML, CSS"/>
 </p>
