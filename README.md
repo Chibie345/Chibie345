@@ -22,7 +22,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Tentang Saya
 
 <p align="center">
   <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Full-Stack Developer"/>
@@ -33,8 +33,8 @@
 <table>
   <tr>
     <td align="center">
-      <h3>🚀 Building Digital Solutions</h3>
-      I enjoy turning ideas into real-world applications, from modern web platforms to smart IoT systems and AI-powered projects.
+      <h3>🚀 Membangun Solusi Digital</h3>
+     Halo! Saya Bagas Aditya Silalahi, seorang mahasiswa yang memiliki minat dalam pengembangan teknologi inovatif, efisien, dan bermanfaat untuk kehidupan nyata.Saya senang mengembangkan aplikasi web, sistem berbasis Internet of Things (IoT), serta solusi berbasis kecerdasan buatan (AI) yang menggabungkan perangkat lunak, perangkat keras, dan otomatisasi cerdas. Bidang yang saya tekuni meliputi pengembangan web aplikasi, sistem tertanam menggunakan ESP32, computer vision, serta pengembangan aplikasi mobile. Bagi saya, teknologi bukan hanya tentang menciptakan sesuatu yang berfungsi, tetapi juga tentang menghadirkan solusi yang bermanfaat, mudah dikembangkan, dan mampu menyelesaikan permasalahan nyata. Tujuan Saya yaitu Terus belajar, mengeksplorasi teknologi baru, dan mengubah ide kreatif menjadi proyek digital yang inovatif dan berdampak.
       <br/><br/>
       <img src="https://img.shields.io/badge/Web%20Applications-0E7490?style=flat-square" alt="Web Applications"/>
       <img src="https://img.shields.io/badge/Smart%20Systems-0E7490?style=flat-square" alt="Smart Systems"/>
@@ -43,9 +43,9 @@
   </tr>
   <tr>
     <td align="center">
-      <b>🎯 My Focus</b>
+      <b>🎯 Tujuan Saya</b>
       <br/><br/>
-      Creating technology that is useful, modern, scalable, and connected to real-world problems.
+      Menciptakan teknologi yang bermanfaat, modern, mudah dikembangkan, dan terhubung dengan masalah dunia nyata.
     </td>
   </tr>
 </table>
