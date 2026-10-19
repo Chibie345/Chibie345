@@ -128,7 +128,7 @@
   <img src="https://img.shields.io/badge/Designed%20for-Dark%20Mode-0B1220?style=flat-square&labelColor=0891B2" alt="Dark mode design"/>
   <img src="https://img.shields.io/badge/Powered%20by-Creativity-0B1220?style=flat-square&labelColor=0891B2" alt="Powered by creativity"/>
 </p>
-# 🚀 Featured Projects
+# 🚀 Project Unggulan
 
 <div align="center">
 
@@ -139,9 +139,9 @@
 
 ## 🏠
 
-### SmartHome
+### SmartHome (Rumah Pintar)
 
-IoT smart home system using ESP32, ESP32-CAM, sensors, automation, voice recognition, face recognition, and mobile control.
+Sistem rumah pintar IoT menggunakan ESP32, ESP32-CAM, sensor, otomatisasi, pengenalan suara, pengenalan wajah, dan kontrol seluler(handphone).
 
 </td>
 
@@ -149,9 +149,9 @@ IoT smart home system using ESP32, ESP32-CAM, sensors, automation, voice recogni
 
 ## 🌱
 
-### Smart Plant
+### Smart Plant (Sistem Tanaman Pintar)
 
-IoT automatic plant watering system using ESP32, soil moisture sensor, DHT sensor, relay, pump, and LCD.
+Sistem penyiraman tanaman otomatis IoT menggunakan ESP32, sensor kelembaban tanah, sensor DHT, relay, pompa, dan LCD.
 
 </td>
 
@@ -159,9 +159,9 @@ IoT automatic plant watering system using ESP32, soil moisture sensor, DHT senso
 
 ## 📊
 
-### Web Systems
+### Web Systems (Sistem Web)
 
-Web-based information systems using Laravel, PHP, MySQL, authentication, dashboards, CRUD, and reporting.
+Sistem informasi berbasis web menggunakan Laravel, PHP, MySQL, autentikasi, dasbor website, CRUD, dan pelaporan.
 
 </td>
 
