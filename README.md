@@ -25,7 +25,7 @@
 ## 👨‍💻 Tentang Saya
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Full-Stack Developer"/>
+  <img src="https://img.shields.io/badge/FULL--STACK%20DEVELOPER-0B1220?style=for-the-badge&labelColor=0891B2" alt="Web Developer"/>
   <img src="https://img.shields.io/badge/IoT%20%26%20ESP32-0B1220?style=for-the-badge&labelColor=0891B2" alt="IoT and ESP32"/>
   <img src="https://img.shields.io/badge/AI%20%26%20VISION-0B1220?style=for-the-badge&labelColor=0891B2" alt="AI and Computer Vision"/>
 </p>
