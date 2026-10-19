@@ -256,16 +256,37 @@ Kontrol IoT
 
 ---
 
+
+
 # 🌐 Mari Berteman Dengan Saling Terhubung
 
 <div align="center">
 
 <a href="https://github.com/Chibie345">
-<img src="https://img.shields.io/badge/GitHub-Chibie345-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Chibie345-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:ndenanginku567@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/6281381256338">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://www.instagram.com/bagas_aditya_s_/">
+  <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.linkedin.com/in/bagas-aditya-silalahi/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://t.me/Bagasadityas">
+  <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.youtube.com/@bagasgaming3551">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="https://www.tiktok.com/@videoclipanimation">
+  <img src="https://img.shields.io/badge/TikTok-Follow%20Me-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
 </a>
 
 </div>
@@ -273,10 +294,10 @@ Kontrol IoT
 <br>
 
 <div align="center">
+  <h3>💡 Code. Build. Learn. Repeat.</h3>
+</div>
 
-### 💡 Code. Build. Learn. Repeat.
 
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:2563EB,100:0F172A&height=130&section=footer" width="100%"/>
 
