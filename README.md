@@ -24,7 +24,10 @@
        alt="Profile Views"/>
 </a>
 </div>
-
+<a href="https://github.com/Chibie345">
+  <img src="https://profile-counter.glitch.me/Chibie345/count.svg"
+       alt="Profile Views"/>
+</a>
 
 ## 👨‍💻 Tentang Saya
 
