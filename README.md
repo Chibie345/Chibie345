@@ -29,6 +29,7 @@
 
 <br>
 </div>
+<img src="https://img.shields.io/badge/PROFILE%20VIEWS-TEST-61B8E8?style=for-the-badge" alt="Profile Views Test">
 
 
 ## 👨‍💻 Tentang Saya
