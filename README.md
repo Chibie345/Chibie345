@@ -17,9 +17,11 @@
   <img src="https://img.shields.io/badge/REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 <a href="https://github.com/explore">
-  <img src="https://img.shields.io/badge/EXPLORE-3563E9?style=for-the-badge" alt="Explore"/>
+  <img src="https://img.shields.io/badge/EXPLORE-3563E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore"/>
 </a>
-![Profile Views](https://komarev.com/ghpvc/?username=Chibie345&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge)
+<a href="https://github.com/Chibie345">
+  <img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=38BDF8&label=PROFILE%20VIEWS" alt="Profile Views"/>
+</a>
 
 </div>
 
