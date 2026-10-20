@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Selamat+Datang+di+Profil+GitHub+Saya+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+ESP32+Developer+%F0%9F%A4%96;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A7%A0;Membangun+Ide+Menjadi+Project+Nyata+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br><br>
+<div align="center">
 
 <a href="https://github.com/Chibie345">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -15,6 +16,8 @@
 </a><a href="https://github.com/explore">
   <img src="https://img.shields.io/badge/EXPLORE-3563E9?style=for-the-badge" alt="Explore"/>
 </a><img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
 </div>
 
 ---
