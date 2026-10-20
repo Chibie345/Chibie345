@@ -19,12 +19,15 @@
 </a><a href="https://github.com/explore">
   <img src="https://img.shields.io/badge/EXPLORE-4169E1?style=for-the-badge" alt="Explore"/>
 </a>
+<br>
 <a href="https://github.com/Chibie345">
-  <img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=61B8E8&label=PROFILE+VIEWS&v=2" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=61B8E8&label=PROFILE%20VIEWS"
+    alt="Profile Views"
+  />
 </a>
 </div>
 
----
 
 ## 👨‍💻 Tentang Saya
 
