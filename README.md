@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/EXPLORE-4169E1?style=for-the-badge" alt="Explore"/>
 </a>
 <a href="https://github.com/Chibie345">
-  <img src="https://profile-counter.glitch.me/Chibie345/count.svg"
-       alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Chibie345" alt="Profile Views">
 </a>
 </div>
 
