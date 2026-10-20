@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=Chibie345" alt="Profile Views">
 </a>
 </div>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=61B8E8&label=PROFILE%20VIEWS&v=20261020)
 ## 👨‍💻 Tentang Saya
 
 <p align="center">
