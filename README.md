@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/EXPLORE-3563E9?style=for-the-badge&logo=github&logoColor=white" alt="Explore"/>
 </a>
 <a href="https://github.com/Chibie345">
-  <img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=38BDF8&label=PROFILE%20VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views"/>
 </a>
 
 </div>
