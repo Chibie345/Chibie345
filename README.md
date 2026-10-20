@@ -10,8 +10,6 @@
 
 <br><br>
 
-<div align="center">
-
 <a href="https://github.com/Chibie345">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -21,12 +19,7 @@
 <a href="https://github.com/explore">
   <img src="https://img.shields.io/badge/EXPLORE-3563E9?style=for-the-badge" alt="Explore"/>
 </a>
-<a href="https://github.com/Chibie345">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-Visit%20Profile-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
-</a>
-
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Chibie345&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge)
 
 </div>
 
