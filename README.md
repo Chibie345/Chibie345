@@ -14,10 +14,10 @@
 <a href="https://github.com/Chibie345"><img src="https://img.shields.io/badge/CHIBIE345-181717?style=for-the-badge" alt="CHIBIE345"/></a>
 <a href="https://github.com/Chibie345?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <a href="https://github.com/explore"><img src="https://img.shields.io/badge/EXPLORE-4169E1?style=for-the-badge" alt="Explore"/></a>
+<a href="https://github.com/Chibie345">
+  <img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=61B8E8&label=PROFILE%20VIEWS&v=20261020-3" alt="Profile Views"/>
+</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=61B8E8&label=PROFILE%20VIEWS" alt="Profile Views"/>
 
 </div>
 
