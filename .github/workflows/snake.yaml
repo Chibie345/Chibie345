@@ -27,6 +27,36 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Fix Grid and Snake Position
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          files = [
+              Path("dist/github-contribution-grid-snake.svg"),
+              Path("dist/github-contribution-grid-snake-dark.svg"),
+          ]
+
+          marker = '<rect class="c c1" x="834" y="18" rx="2" ry="2"/>'
+
+          for file in files:
+              if not file.exists():
+                  continue
+
+              svg = file.read_text()
+
+              if marker in svg and 'x="834" y="34"' not in svg:
+                  extra = ''.join(
+                      f'<rect class="c" x="834" y="{y}" rx="2" ry="2"/>'
+                      for y in [34, 50, 66, 82, 98]
+                  )
+                  svg = svg.replace(marker, marker + extra, 1)
+
+              svg = svg.replace("-16px", "0px")
+              file.write_text(svg)
+
+          PY
+
       - name: Deploy Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
