@@ -27,46 +27,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fix Grid and Snake Position
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import re
-
-          files = [
-              Path("dist/github-contribution-grid-snake.svg"),
-              Path("dist/github-contribution-grid-snake-dark.svg"),
-          ]
-
-          for file in files:
-              if not file.exists():
-                  raise SystemExit(f"File SVG tidak ditemukan: {file}")
-
-              svg = file.read_text()
-
-              # Tambahkan kotak yang hilang hanya jika koordinat
-              # kolom paling kanan memang menggunakan x=834.
-              marker = '<rect class="c c1" x="834" y="18" rx="2" ry="2"/>'
-              extra = ''.join(
-                  f'<rect class="c" x="834" y="{y}" rx="2" ry="2"/>'
-                  for y in [34, 50, 66, 82, 98]
-              )
-
-              if marker in svg:
-                  for y in [34, 50, 66, 82, 98]:
-                      pattern = (
-                          rf'<rect class="c(?: c\d+)?" '
-                          rf'x="834" y="{y}" rx="2" ry="2"/>'
-                      )
-                      svg = re.sub(pattern, '', svg)
-
-                  svg = svg.replace(marker, marker + extra, 1)
-
-              file.write_text(svg)
-              print(f"SVG diproses: {file}")
-
-          PY
-
       - name: Deploy Snake to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
