@@ -14,7 +14,7 @@
 <a href="https://github.com/Chibie345"><img src="https://img.shields.io/badge/CHIBIE345-181717?style=for-the-badge" alt="CHIBIE345"/></a>
 <a href="https://github.com/Chibie345?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-555555?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 <a href="https://github.com/explore"><img src="https://img.shields.io/badge/EXPLORE-4169E1?style=for-the-badge" alt="Explore"/></a>
-<img src="https://komarev.com/ghpvc/?username=Chibie345&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://chibie345-profile-views.vercel.app/api/profile-views" alt="Profile Views" />
 
 
 </div>
