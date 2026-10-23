@@ -1,3 +1,4 @@
+
 name: Generate Snake
 
 on:
@@ -27,17 +28,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fix Grid and Snake Position
+      - name: Restore Missing Rightmost Grid Cells
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
 
           files = [
               Path("dist/github-contribution-grid-snake.svg"),
               Path("dist/github-contribution-grid-snake-dark.svg"),
           ]
-
-          marker = '<rect class="c c1" x="834" y="18" rx="2" ry="2"/>'
 
           for file in files:
               if not file.exists():
@@ -45,15 +45,21 @@ jobs:
 
               svg = file.read_text()
 
-              if marker in svg and 'x="834" y="34"' not in svg:
-                  extra = ''.join(
-                      f'<rect class="c" x="834" y="{y}" rx="2" ry="2"/>'
-                      for y in [34, 50, 66, 82, 98]
+              for y in [66, 82, 98]:
+                  pattern = (
+                      rf'<rect class="c(?: c\d)?" '
+                      rf'x="834" y="{y}"'
                   )
-                  svg = svg.replace(marker, marker + extra, 1)
 
-              svg = svg.replace("-16px", "0px")
+                  if not re.search(pattern, svg):
+                      cell = (
+                          f'<rect class="c" x="834" y="{y}" '
+                          'rx="2" ry="2"/>'
+                      )
+                      svg = svg.replace("</svg>", cell + "</svg>", 1)
+
               file.write_text(svg)
+              print(f"Grid diperiksa: {file}")
 
           PY
 
