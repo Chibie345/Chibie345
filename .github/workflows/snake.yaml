@@ -28,7 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Restore Missing Rightmost Grid Cells
+      - name: Fix Grid and Snake Position
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -45,6 +45,15 @@ jobs:
 
               svg = file.read_text()
 
+              # Geser animasi ular secara vertikal dari -16px ke 0px.
+              # Koordinat horizontal dan viewBox tidak diubah.
+              svg = re.sub(
+                  r'translate\(([-\d.]+px),-16px\)',
+                  r'translate(\1,0px)',
+                  svg
+              )
+
+              # Pastikan tiga kotak terbawah di kolom kanan tersedia.
               for y in [66, 82, 98]:
                   pattern = (
                       rf'<rect class="c(?: c\d)?" '
@@ -56,10 +65,15 @@ jobs:
                           f'<rect class="c" x="834" y="{y}" '
                           'rx="2" ry="2"/>'
                       )
-                      svg = svg.replace("</svg>", cell + "</svg>", 1)
+
+                      svg = svg.replace(
+                          "</svg>",
+                          cell + "</svg>",
+                          1
+                      )
 
               file.write_text(svg)
-              print(f"Grid diperiksa: {file}")
+              print(f"SVG diperbaiki: {file}")
 
           PY
 
